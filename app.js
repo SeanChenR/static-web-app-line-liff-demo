@@ -21,7 +21,7 @@ liff.init({
 });
 
 const login = () => {
-    liff.login({redirectUri: "https://2da0-118-167-72-67.ngrok-free.app"});
+    liff.login({redirectUri: "https://mango-bush-0ded00e00.4.azurestaticapps.net"});
 }
 
 const share = () => {
@@ -50,11 +50,11 @@ const share = () => {
                             "contents": [
                                 {
                                     "type": "text",
-                                    "text": "hello"
+                                    "text": "Love"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "world"
+                                    "text": "Lulu"
                                 }
                             ]
                         }
